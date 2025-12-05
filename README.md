@@ -1,5 +1,10 @@
 # TP-19 : Orchestration de Microservices avec Spring Cloud
 
+![WhatsApp Bild 2025-12-05 um 12 48 44_7c64c764](https://github.com/user-attachments/assets/e3c55f2d-cee7-44ba-8d2b-edf7fcd578e1)
+
+![WhatsApp Bild 2025-12-05 um 12 49 19_d558e682](https://github.com/user-attachments/assets/b6076be0-bffb-4a93-b26f-cacca8edd692)
+
+
 ## 📋 Prérequis
 
 - ✅ Java 17 (installé)
